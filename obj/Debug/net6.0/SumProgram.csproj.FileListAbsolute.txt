@@ -1,0 +1,60 @@
+C:\Users\Aya khaled\source\repos\SumProgram\SumProgram\bin\Debug\net6.0\SumProgram.exe
+C:\Users\Aya khaled\source\repos\SumProgram\SumProgram\bin\Debug\net6.0\SumProgram.deps.json
+C:\Users\Aya khaled\source\repos\SumProgram\SumProgram\bin\Debug\net6.0\SumProgram.runtimeconfig.json
+C:\Users\Aya khaled\source\repos\SumProgram\SumProgram\bin\Debug\net6.0\SumProgram.dll
+C:\Users\Aya khaled\source\repos\SumProgram\SumProgram\bin\Debug\net6.0\SumProgram.pdb
+C:\Users\Aya khaled\source\repos\SumProgram\SumProgram\obj\Debug\net6.0\SumProgram.csproj.AssemblyReference.cache
+C:\Users\Aya khaled\source\repos\SumProgram\SumProgram\obj\Debug\net6.0\SumProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aya khaled\source\repos\SumProgram\SumProgram\obj\Debug\net6.0\SumProgram.AssemblyInfoInputs.cache
+C:\Users\Aya khaled\source\repos\SumProgram\SumProgram\obj\Debug\net6.0\SumProgram.AssemblyInfo.cs
+C:\Users\Aya khaled\source\repos\SumProgram\SumProgram\obj\Debug\net6.0\SumProgram.csproj.CoreCompileInputs.cache
+C:\Users\Aya khaled\source\repos\SumProgram\SumProgram\obj\Debug\net6.0\SumProgram.dll
+C:\Users\Aya khaled\source\repos\SumProgram\SumProgram\obj\Debug\net6.0\refint\SumProgram.dll
+C:\Users\Aya khaled\source\repos\SumProgram\SumProgram\obj\Debug\net6.0\SumProgram.pdb
+C:\Users\Aya khaled\source\repos\SumProgram\SumProgram\obj\Debug\net6.0\SumProgram.genruntimeconfig.cache
+C:\Users\Aya khaled\source\repos\SumProgram\SumProgram\obj\Debug\net6.0\ref\SumProgram.dll
+C:\Users\mohamed.elsayed\Downloads\SumProgram\SumProgram\SumProgram\bin\Debug\net6.0\SumProgram.exe
+C:\Users\mohamed.elsayed\Downloads\SumProgram\SumProgram\SumProgram\bin\Debug\net6.0\SumProgram.deps.json
+C:\Users\mohamed.elsayed\Downloads\SumProgram\SumProgram\SumProgram\bin\Debug\net6.0\SumProgram.runtimeconfig.json
+C:\Users\mohamed.elsayed\Downloads\SumProgram\SumProgram\SumProgram\bin\Debug\net6.0\SumProgram.dll
+C:\Users\mohamed.elsayed\Downloads\SumProgram\SumProgram\SumProgram\bin\Debug\net6.0\SumProgram.pdb
+C:\Users\mohamed.elsayed\Downloads\SumProgram\SumProgram\SumProgram\obj\Debug\net6.0\SumProgram.csproj.AssemblyReference.cache
+C:\Users\mohamed.elsayed\Downloads\SumProgram\SumProgram\SumProgram\obj\Debug\net6.0\SumProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mohamed.elsayed\Downloads\SumProgram\SumProgram\SumProgram\obj\Debug\net6.0\SumProgram.AssemblyInfoInputs.cache
+C:\Users\mohamed.elsayed\Downloads\SumProgram\SumProgram\SumProgram\obj\Debug\net6.0\SumProgram.AssemblyInfo.cs
+C:\Users\mohamed.elsayed\Downloads\SumProgram\SumProgram\SumProgram\obj\Debug\net6.0\SumProgram.csproj.CoreCompileInputs.cache
+C:\Users\mohamed.elsayed\Downloads\SumProgram\SumProgram\SumProgram\obj\Debug\net6.0\SumProgram.dll
+C:\Users\mohamed.elsayed\Downloads\SumProgram\SumProgram\SumProgram\obj\Debug\net6.0\refint\SumProgram.dll
+C:\Users\mohamed.elsayed\Downloads\SumProgram\SumProgram\SumProgram\obj\Debug\net6.0\SumProgram.pdb
+C:\Users\mohamed.elsayed\Downloads\SumProgram\SumProgram\SumProgram\obj\Debug\net6.0\SumProgram.genruntimeconfig.cache
+C:\Users\mohamed.elsayed\Downloads\SumProgram\SumProgram\SumProgram\obj\Debug\net6.0\ref\SumProgram.dll
+C:\Users\IT\Downloads\testing2\SumProgram_unit testV02\SumProgram\SumProgram\bin\Debug\net6.0\SumProgram.exe
+C:\Users\IT\Downloads\testing2\SumProgram_unit testV02\SumProgram\SumProgram\bin\Debug\net6.0\SumProgram.deps.json
+C:\Users\IT\Downloads\testing2\SumProgram_unit testV02\SumProgram\SumProgram\bin\Debug\net6.0\SumProgram.runtimeconfig.json
+C:\Users\IT\Downloads\testing2\SumProgram_unit testV02\SumProgram\SumProgram\bin\Debug\net6.0\SumProgram.dll
+C:\Users\IT\Downloads\testing2\SumProgram_unit testV02\SumProgram\SumProgram\bin\Debug\net6.0\SumProgram.pdb
+C:\Users\IT\Downloads\testing2\SumProgram_unit testV02\SumProgram\SumProgram\obj\Debug\net6.0\SumProgram.csproj.AssemblyReference.cache
+C:\Users\IT\Downloads\testing2\SumProgram_unit testV02\SumProgram\SumProgram\obj\Debug\net6.0\SumProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IT\Downloads\testing2\SumProgram_unit testV02\SumProgram\SumProgram\obj\Debug\net6.0\SumProgram.AssemblyInfoInputs.cache
+C:\Users\IT\Downloads\testing2\SumProgram_unit testV02\SumProgram\SumProgram\obj\Debug\net6.0\SumProgram.AssemblyInfo.cs
+C:\Users\IT\Downloads\testing2\SumProgram_unit testV02\SumProgram\SumProgram\obj\Debug\net6.0\SumProgram.csproj.CoreCompileInputs.cache
+C:\Users\IT\Downloads\testing2\SumProgram_unit testV02\SumProgram\SumProgram\obj\Debug\net6.0\SumProgram.dll
+C:\Users\IT\Downloads\testing2\SumProgram_unit testV02\SumProgram\SumProgram\obj\Debug\net6.0\refint\SumProgram.dll
+C:\Users\IT\Downloads\testing2\SumProgram_unit testV02\SumProgram\SumProgram\obj\Debug\net6.0\SumProgram.pdb
+C:\Users\IT\Downloads\testing2\SumProgram_unit testV02\SumProgram\SumProgram\obj\Debug\net6.0\SumProgram.genruntimeconfig.cache
+C:\Users\IT\Downloads\testing2\SumProgram_unit testV02\SumProgram\SumProgram\obj\Debug\net6.0\ref\SumProgram.dll
+C:\Users\IT\Desktop\SumProgram\SumProgram\bin\Debug\net6.0\SumProgram.exe
+C:\Users\IT\Desktop\SumProgram\SumProgram\bin\Debug\net6.0\SumProgram.deps.json
+C:\Users\IT\Desktop\SumProgram\SumProgram\bin\Debug\net6.0\SumProgram.runtimeconfig.json
+C:\Users\IT\Desktop\SumProgram\SumProgram\bin\Debug\net6.0\SumProgram.dll
+C:\Users\IT\Desktop\SumProgram\SumProgram\bin\Debug\net6.0\SumProgram.pdb
+C:\Users\IT\Desktop\SumProgram\SumProgram\obj\Debug\net6.0\SumProgram.csproj.AssemblyReference.cache
+C:\Users\IT\Desktop\SumProgram\SumProgram\obj\Debug\net6.0\SumProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IT\Desktop\SumProgram\SumProgram\obj\Debug\net6.0\SumProgram.AssemblyInfoInputs.cache
+C:\Users\IT\Desktop\SumProgram\SumProgram\obj\Debug\net6.0\SumProgram.AssemblyInfo.cs
+C:\Users\IT\Desktop\SumProgram\SumProgram\obj\Debug\net6.0\SumProgram.csproj.CoreCompileInputs.cache
+C:\Users\IT\Desktop\SumProgram\SumProgram\obj\Debug\net6.0\SumProgram.dll
+C:\Users\IT\Desktop\SumProgram\SumProgram\obj\Debug\net6.0\refint\SumProgram.dll
+C:\Users\IT\Desktop\SumProgram\SumProgram\obj\Debug\net6.0\SumProgram.pdb
+C:\Users\IT\Desktop\SumProgram\SumProgram\obj\Debug\net6.0\SumProgram.genruntimeconfig.cache
+C:\Users\IT\Desktop\SumProgram\SumProgram\obj\Debug\net6.0\ref\SumProgram.dll
